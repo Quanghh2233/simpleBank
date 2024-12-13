@@ -1,4 +1,4 @@
-module github.com/Quanghh2233/advanced
+module github.com/Quanghh2233/simpleBank
 
 go 1.23.0
 
